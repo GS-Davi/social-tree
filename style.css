@@ -26,7 +26,7 @@ body {
 .container .profile-image {
   text-align: center;
   color: var(--purple);
-  margin-top: 25px;
+  margin-top: 20px;
 }
 .container .profile-image img {
   width: 200px;
