@@ -20,10 +20,10 @@ body {
   align-items: center;
   min-height: 100vh;
   color: var(--body-bg-color);
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
-/* Profile Image*/
+/* Profile Image */
 .container .profile-image {
   text-align: center;
   color: var(--purple);
